@@ -4,7 +4,7 @@ $fn = 30;  //Not millimeters though.
 
 width = 132;
 length = 140;
-height = 5;
+height = 2.5;
 
 radius = 4;
 
