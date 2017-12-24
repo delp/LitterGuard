@@ -2,4 +2,4 @@ This is a "litter guard" plastic tray for a Critter Nation brand animal enclosur
 
 Secure it to your cage in segments.
 
-All mentioned products are propetery of their respective owners.
+All mentioned products are property of their respective owners.
